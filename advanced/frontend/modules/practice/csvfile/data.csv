@@ -1,0 +1,6 @@
+id,title,product_id,variant_id,price,inventory
+7,books,1,101,30.0000,3
+9,books,1,103,30.0000,1
+14,books,1,104,20.0000,3
+20,shoes,2,106,30.0000,2
+26,books,1,107,30.0000,4
